@@ -4,5 +4,6 @@ A basic application that allows users to submit a form with their name and then 
 Greetings all! 
 
 Make sure to install the necessary dependencies and libraries! 
+Also, familiarize yourself with Jenkins! 
 
 Happy Coding! 
